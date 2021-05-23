@@ -1,0 +1,165 @@
+control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,improved
+5,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+6,Mga may kaso ng kahirapan sa paghinga.,Mga may kasalukuyan o dati nang karamdaman tulad ng altapresyon at kanser.,0,0,0,0
+7,Mga may kaso ng kahirapan sa paghinga.,Mga may kaso ng kahirapan sa paghinga.,0,0,0,0
+8,Lahat ng nabanggit,Mga edad 60 pataas,1,0,1,0
+9,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+11,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+13,Mga may kaso ng kahirapan sa paghinga.,Mga may kaso ng kahirapan sa paghinga.,0,0,0,0
+14,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+15,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+16,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+17,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+18,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+19,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+21,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+22,Mga edad 60 pataas,Mga edad 60 pataas,0,0,0,0
+23,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+24,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+25,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+26,Mga edad 60 pataas,Mga edad 60 pataas,0,0,0,0
+27,Mga edad 60 pataas,Mga edad 60 pataas,0,0,0,0
+28,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+29,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+30,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+31,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+32,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+33,Lahat ng nabanggit,Mga edad 60 pataas,1,0,1,0
+34,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+35,Lahat ng nabanggit,Mga may kaso ng kahirapan sa paghinga.,1,0,1,0
+38,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+39,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+41,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+44,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+49,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+50,Lahat ng nabanggit,Mga edad 60 pataas,1,0,1,0
+51,Mga edad 60 pataas,Mga edad 60 pataas,0,0,0,0
+52,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+53,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+54,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+55,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+56,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+57,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+58,Lahat ng nabanggit,Mga edad 60 pataas,1,0,1,0
+59,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+60,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+61,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+62,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+63,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+64,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+74,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+75,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+76,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+79,Lahat ng nabanggit,Mga edad 60 pataas,1,0,1,0
+81,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+82,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+85,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+86,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+87,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+88,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+89,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+90,Mga may kaso ng kahirapan sa paghinga.,Lahat ng nabanggit,0,1,1,1
+91,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+92,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+93,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+94,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+95,Lahat ng nabanggit,Mga edad 60 pataas,1,0,1,0
+96,Mga may kaso ng kahirapan sa paghinga.,Lahat ng nabanggit,0,1,1,1
+97,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+98,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+101,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+102,Lahat ng nabanggit,Mga edad 60 pataas,1,0,1,0
+103,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+104,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+106,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+107,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+108,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+110,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+112,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+114,Mga edad 60 pataas,Mga edad 60 pataas,0,0,0,0
+115,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+116,Mga edad 60 pataas,Mga edad 60 pataas,0,0,0,0
+117,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+118,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+119,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+120,Mga may kaso ng kahirapan sa paghinga.,Lahat ng nabanggit,0,1,1,1
+121,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+122,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+123,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+124,Lahat ng nabanggit,Mga edad 60 pataas,1,0,1,0
+125,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+126,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+127,Mga may kaso ng kahirapan sa paghinga.,Lahat ng nabanggit,0,1,1,1
+128,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+129,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+130,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+131,Mga edad 60 pataas,Mga edad 60 pataas,0,0,0,0
+132,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+133,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+134,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+135,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+136,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+137,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+138,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+141,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+143,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+145,Mga edad 60 pataas,Mga edad 60 pataas,0,0,0,0
+146,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+147,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+148,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+149,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+150,Mga edad 60 pataas,Mga edad 60 pataas,0,0,0,0
+151,Mga edad 60 pataas,Mga edad 60 pataas,0,0,0,0
+152,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+153,Mga may kasalukuyan o dati nang karamdaman tulad ng altapresyon at kanser.,Lahat ng nabanggit,0,1,1,1
+154,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+155,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+156,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+157,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+158,Mga edad 60 pataas,Mga edad 60 pataas,0,0,0,0
+159,Mga may kasalukuyan o dati nang karamdaman tulad ng altapresyon at kanser.,Lahat ng nabanggit,0,1,1,1
+160,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+162,Mga may kasalukuyan o dati nang karamdaman tulad ng altapresyon at kanser.,Mga may kasalukuyan o dati nang karamdaman tulad ng altapresyon at kanser.,0,0,0,0
+163,Lahat ng nabanggit,Mga edad 60 pataas,1,0,1,0
+164,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+166,Lahat ng nabanggit,Mga edad 60 pataas,1,0,1,0
+169,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+171,Lahat ng nabanggit,Mga edad 60 pataas,1,0,1,0
+177,Lahat ng nabanggit,Mga edad 60 pataas,1,0,1,0
+178,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+180,Lahat ng nabanggit,Mga edad 60 pataas,1,0,1,0
+181,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+182,Mga edad 60 pataas,Mga edad 60 pataas,0,0,0,0
+183,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+184,Mga edad 60 pataas,Mga edad 60 pataas,0,0,0,0
+185,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+186,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+187,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+188,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+189,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+190,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+191,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+192,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+194,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+195,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+196,Mga edad 60 pataas,Mga edad 60 pataas,0,0,0,0
+197,Mga edad 60 pataas,Mga edad 60 pataas,0,0,0,0
+198,Lahat ng nabanggit,Mga may kasalukuyan o dati nang karamdaman tulad ng altapresyon at kanser.,1,0,1,0
+199,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+204,Mga may kasalukuyan o dati nang karamdaman tulad ng altapresyon at kanser.,Mga may kasalukuyan o dati nang karamdaman tulad ng altapresyon at kanser.,0,0,0,0
+205,Mga edad 60 pataas,Mga may kaso ng kahirapan sa paghinga.,0,0,0,0
+206,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+207,Mga may kaso ng kahirapan sa paghinga.,Mga may kaso ng kahirapan sa paghinga.,0,0,0,0
+208,Mga edad 60 pataas,Mga may kasalukuyan o dati nang karamdaman tulad ng altapresyon at kanser.,0,0,0,0
+212,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+213,Mga may kaso ng kahirapan sa paghinga.,Mga may kaso ng kahirapan sa paghinga.,0,0,0,0
+214,Lahat ng nabanggit,Lahat ng nabanggit,1,1,0,0
+215,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+216,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+217,Mga may kasalukuyan o dati nang karamdaman tulad ng altapresyon at kanser.,Lahat ng nabanggit,0,1,1,1
+218,Mga may kasalukuyan o dati nang karamdaman tulad ng altapresyon at kanser.,Lahat ng nabanggit,0,1,1,1
+219,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+220,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+221,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+223,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1
+224,Mga edad 60 pataas,Lahat ng nabanggit,0,1,1,1

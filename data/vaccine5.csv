@@ -1,0 +1,160 @@
+control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,improved
+5,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+6,Pagkapagod,Pagkawala ng pang amoy,0,1,1,1
+7,Pagkapagod,Pagkapagod,0,0,0,0
+8,Pagkawala ng pang amoy,Pamamaga ng tinurukan,1,0,1,0
+9,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+11,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+13,Pamamaga ng tinurukan,Pagkapagod,0,0,0,0
+14,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+15,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+16,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+18,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+19,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+21,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+22,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+23,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+24,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+25,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+26,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+27,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+28,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+29,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+30,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+31,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+32,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+33,Lagnat,Lagnat,0,0,0,0
+35,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+38,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+39,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+41,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+44,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+49,Lagnat,Lagnat,0,0,0,0
+50,Lagnat,Lagnat,0,0,0,0
+51,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+52,Pagkapagod,Pagkawala ng pang amoy,0,1,1,1
+53,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+54,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+55,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+56,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+57,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+58,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+59,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+60,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+61,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+62,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+63,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+64,Lagnat,Lagnat,0,0,0,0
+74,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+75,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+76,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+77,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+81,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+82,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+85,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+86,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+87,Lagnat,Lagnat,0,0,0,0
+88,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+90,Lagnat,Lagnat,0,0,0,0
+91,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+92,Lagnat,Lagnat,0,0,0,0
+93,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+94,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+95,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+96,Lagnat,Lagnat,0,0,0,0
+97,Pagkapagod,Pagkapagod,0,0,0,0
+98,Pamamaga ng tinurukan,Pagkawala ng pang amoy,0,1,1,1
+101,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+103,Pagkapagod,Pamamaga ng tinurukan,0,0,0,0
+104,Pagkapagod,Pagkapagod,0,0,0,0
+106,Lagnat,Pamamaga ng tinurukan,0,0,0,0
+107,Lagnat,Pagkawala ng pang amoy,0,1,1,1
+108,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+110,Pagkapagod,Pagkawala ng pang amoy,0,1,1,1
+112,Pamamaga ng tinurukan,Pagkawala ng pang amoy,0,1,1,1
+114,Lagnat,Lagnat,0,0,0,0
+115,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+117,Lagnat,Lagnat,0,0,0,0
+118,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+119,Lagnat,Lagnat,0,0,0,0
+120,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+121,Lagnat,Lagnat,0,0,0,0
+122,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+123,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+124,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+125,Lagnat,Lagnat,0,0,0,0
+126,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+127,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+128,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+129,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+130,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+131,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+132,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+133,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+134,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+135,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+136,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+137,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+138,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+141,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+143,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+145,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+146,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+147,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+148,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+149,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+150,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+151,Lagnat,Lagnat,0,0,0,0
+152,Pagkapagod,Lagnat,0,0,0,0
+153,Lagnat,Lagnat,0,0,0,0
+154,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+155,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+156,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+157,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+158,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+159,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+160,Lagnat,Lagnat,0,0,0,0
+162,Lagnat,Lagnat,0,0,0,0
+163,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+165,Pagkapagod,Pagkawala ng pang amoy,0,1,1,1
+169,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
+171,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+177,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+178,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+180,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+181,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+182,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+183,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+184,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+185,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+186,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+187,Lagnat,Lagnat,0,0,0,0
+188,Lagnat,Lagnat,0,0,0,0
+189,Lagnat,Lagnat,0,0,0,0
+190,Lagnat,Lagnat,0,0,0,0
+191,Lagnat,Lagnat,0,0,0,0
+192,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+194,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+195,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+196,Lagnat,Lagnat,0,0,0,0
+197,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+198,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+199,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+204,Pamamaga ng tinurukan,Pagkapagod,0,0,0,0
+205,Pamamaga ng tinurukan,Pagkawala ng pang amoy,0,1,1,1
+206,Lagnat,Pagkapagod,0,0,0,0
+207,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+208,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+212,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
+213,Pagkapagod,Pagkapagod,0,0,0,0
+214,Lagnat,Lagnat,0,0,0,0
+215,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+216,Lagnat,Lagnat,0,0,0,0
+217,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+218,Pagkawala ng pang amoy,Lagnat,1,0,1,0
+219,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+220,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+221,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+222,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+223,Pamamaga ng tinurukan,Lagnat,0,0,0,0
+224,Pamamaga ng tinurukan,Lagnat,0,0,0,0

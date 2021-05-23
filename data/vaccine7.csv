@@ -1,0 +1,164 @@
+control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,improved
+5,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+6,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+7,"Hindi, walang ebidensiya tungkol dito","Oo, mataas ang posibilidad na magkaroon ng autism",1,0,1,0
+8,"Hindi, walang ebidensiya tungkol dito","Oo, mataas ang posibilidad na magkaroon ng autism",1,0,1,0
+9,"Oo, mayroong maliit na pagkakataon","Oo, mayroong maliit na pagkakataon",0,0,0,0
+10,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+11,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+13,"Oo, lalo na yung mga bulnerable sa sakit","Oo, mayroong maliit na pagkakataon",0,0,0,0
+14,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+15,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+16,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+18,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+19,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+21,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+22,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+23,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+24,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+25,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+26,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+27,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+28,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+29,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+30,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+31,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+32,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+33,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+35,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+38,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+39,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+41,"Oo, mayroong maliit na pagkakataon","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+44,"Oo, lalo na yung mga bulnerable sa sakit","Oo, lalo na yung mga bulnerable sa sakit",0,0,0,0
+49,"Oo, lalo na yung mga bulnerable sa sakit","Oo, lalo na yung mga bulnerable sa sakit",0,0,0,0
+50,"Oo, lalo na yung mga bulnerable sa sakit","Oo, lalo na yung mga bulnerable sa sakit",0,0,0,0
+51,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+52,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+53,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+54,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+55,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+56,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+57,"Hindi, walang ebidensiya tungkol dito","Oo, mayroong maliit na pagkakataon",1,0,1,0
+58,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+59,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+60,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+61,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+62,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+63,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+64,"Hindi, walang ebidensiya tungkol dito","Oo, mayroong maliit na pagkakataon",1,0,1,0
+74,"Hindi, walang ebidensiya tungkol dito","Oo, lalo na yung mga bulnerable sa sakit",1,0,1,0
+75,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+76,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+77,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+81,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+82,"Hindi, walang ebidensiya tungkol dito","Oo, lalo na yung mga bulnerable sa sakit",1,0,1,0
+85,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+86,"Oo, mayroong maliit na pagkakataon","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+87,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+88,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+90,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+91,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+92,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+93,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+94,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+95,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+96,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+97,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+98,"Oo, lalo na yung mga bulnerable sa sakit","Oo, lalo na yung mga bulnerable sa sakit",0,0,0,0
+101,"Oo, lalo na yung mga bulnerable sa sakit","Oo, lalo na yung mga bulnerable sa sakit",0,0,0,0
+102,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+103,"Oo, mayroong maliit na pagkakataon","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+104,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+106,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+107,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+108,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+110,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+112,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+114,"Oo, mataas ang posibilidad na magkaroon ng autism","Oo, mataas ang posibilidad na magkaroon ng autism",0,0,0,0
+115,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+116,"Oo, mataas ang posibilidad na magkaroon ng autism","Oo, mataas ang posibilidad na magkaroon ng autism",0,0,0,0
+117,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+118,"Oo, mayroong maliit na pagkakataon","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+119,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+120,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+121,"Oo, mayroong maliit na pagkakataon","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+122,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+123,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+124,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+125,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+126,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+127,"Oo, mayroong maliit na pagkakataon","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+128,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+129,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+130,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+131,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+132,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+133,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+134,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+135,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+136,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+137,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+138,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+141,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+143,"Oo, mayroong maliit na pagkakataon","Oo, mayroong maliit na pagkakataon",0,0,0,0
+145,"Oo, mayroong maliit na pagkakataon","Oo, mayroong maliit na pagkakataon",0,0,0,0
+146,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+147,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+148,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+149,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+150,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+151,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+152,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+153,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+154,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+155,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+156,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+157,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+158,"Oo, lalo na yung mga bulnerable sa sakit","Oo, mayroong maliit na pagkakataon",0,0,0,0
+159,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+160,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+162,"Oo, mataas ang posibilidad na magkaroon ng autism","Oo, mataas ang posibilidad na magkaroon ng autism",0,0,0,0
+163,"Oo, lalo na yung mga bulnerable sa sakit","Oo, lalo na yung mga bulnerable sa sakit",0,0,0,0
+165,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+166,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+169,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+171,"Oo, lalo na yung mga bulnerable sa sakit","Oo, lalo na yung mga bulnerable sa sakit",0,0,0,0
+177,"Oo, lalo na yung mga bulnerable sa sakit","Oo, lalo na yung mga bulnerable sa sakit",0,0,0,0
+178,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+180,"Oo, lalo na yung mga bulnerable sa sakit","Oo, lalo na yung mga bulnerable sa sakit",0,0,0,0
+181,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+182,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+183,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+184,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+185,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+186,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+187,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+188,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+189,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+190,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+191,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+192,"Oo, lalo na yung mga bulnerable sa sakit","Oo, mataas ang posibilidad na magkaroon ng autism",0,0,0,0
+194,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+195,"Oo, lalo na yung mga bulnerable sa sakit","Oo, lalo na yung mga bulnerable sa sakit",0,0,0,0
+196,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+197,"Oo, lalo na yung mga bulnerable sa sakit","Oo, lalo na yung mga bulnerable sa sakit",0,0,0,0
+198,"Oo, lalo na yung mga bulnerable sa sakit","Oo, mayroong maliit na pagkakataon",0,0,0,0
+199,"Hindi, walang ebidensiya tungkol dito","Oo, lalo na yung mga bulnerable sa sakit",1,0,1,0
+204,"Oo, lalo na yung mga bulnerable sa sakit","Oo, mayroong maliit na pagkakataon",0,0,0,0
+205,"Oo, mayroong maliit na pagkakataon","Oo, mataas ang posibilidad na magkaroon ng autism",0,0,0,0
+206,"Hindi, walang ebidensiya tungkol dito","Oo, lalo na yung mga bulnerable sa sakit",1,0,1,0
+207,"Oo, lalo na yung mga bulnerable sa sakit","Oo, lalo na yung mga bulnerable sa sakit",0,0,0,0
+208,"Oo, mataas ang posibilidad na magkaroon ng autism","Oo, lalo na yung mga bulnerable sa sakit",0,0,0,0
+212,"Oo, mataas ang posibilidad na magkaroon ng autism","Oo, mataas ang posibilidad na magkaroon ng autism",0,0,0,0
+213,"Hindi, walang ebidensiya tungkol dito","Hindi, walang ebidensiya tungkol dito",1,1,0,0
+214,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+215,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+216,"Oo, mayroong maliit na pagkakataon","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+217,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+218,"Oo, lalo na yung mga bulnerable sa sakit","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+219,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+220,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+221,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+222,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+223,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
+224,"Oo, mataas ang posibilidad na magkaroon ng autism","Hindi, walang ebidensiya tungkol dito",0,1,1,1
