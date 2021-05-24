@@ -4,12 +4,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 7,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
 8,"Oo, ngunit sa PCR test lamang","Oo, pareho sa PCR at antigen test",0,0,0,0
 9,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
-10,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
 11,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
-13,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 14,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
-15,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
-16,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 18,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 19,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 21,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
@@ -28,10 +24,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 35,"Oo, ngunit sa PCR test lamang","Oo, ngunit sa PCR test lamang",0,0,0,0
 38,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
 39,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
-41,"Oo, ngunit sa PCR test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 44,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
 49,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
-50,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 52,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 53,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 54,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
@@ -48,7 +42,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 74,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 75,Hindi posibleng mag positibo sa mga viral test na sinabi,"Oo, pareho sa PCR at antigen test",1,0,1,0
 76,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
-77,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 81,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 82,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 85,"Oo, ngunit sa antigen test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
@@ -56,26 +49,20 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 87,"Oo, ngunit sa PCR test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 88,"Oo, ngunit sa PCR test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 90,"Oo, ngunit sa PCR test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
-91,"Oo, ngunit sa PCR test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 92,"Oo, ngunit sa PCR test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
-93,"Oo, ngunit sa PCR test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 94,"Oo, ngunit sa PCR test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 95,"Oo, ngunit sa PCR test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 96,"Oo, ngunit sa PCR test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 97,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 98,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
-101,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
-102,"Oo, ngunit sa PCR test lamang","Oo, pareho sa PCR at antigen test",0,0,0,0
 103,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 104,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 106,"Oo, ngunit sa antigen test lamang","Oo, pareho sa PCR at antigen test",0,0,0,0
 107,"Oo, ngunit sa PCR test lamang","Oo, pareho sa PCR at antigen test",0,0,0,0
 108,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
 110,Hindi posibleng mag positibo sa mga viral test na sinabi,"Oo, pareho sa PCR at antigen test",1,0,1,0
-112,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 114,"Oo, ngunit sa antigen test lamang","Oo, ngunit sa antigen test lamang",0,0,0,0
 115,Hindi posibleng mag positibo sa mga viral test na sinabi,"Oo, pareho sa PCR at antigen test",1,0,1,0
-116,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
 117,"Oo, ngunit sa PCR test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 118,"Oo, ngunit sa PCR test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 119,"Oo, ngunit sa antigen test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
@@ -93,7 +80,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 131,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 132,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 133,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
-134,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
 135,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
 136,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
 137,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
@@ -106,7 +92,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 148,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 149,"Oo, ngunit sa antigen test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 150,"Oo, ngunit sa antigen test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
-151,"Oo, ngunit sa antigen test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 152,"Oo, ngunit sa antigen test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 153,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 154,"Oo, ngunit sa antigen test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
@@ -117,13 +102,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 159,"Oo, ngunit sa antigen test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 160,"Oo, ngunit sa antigen test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 162,"Oo, ngunit sa antigen test lamang","Oo, ngunit sa PCR test lamang",0,0,0,0
-163,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
-164,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
-165,Hindi posibleng mag positibo sa mga viral test na sinabi,"Oo, pareho sa PCR at antigen test",1,0,1,0
 166,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 169,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
-171,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
-177,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
 178,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 180,"Oo, pareho sa PCR at antigen test","Oo, pareho sa PCR at antigen test",0,0,0,0
 181,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
@@ -146,18 +126,14 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 204,"Oo, ngunit sa antigen test lamang","Oo, ngunit sa antigen test lamang",0,0,0,0
 205,"Oo, ngunit sa PCR test lamang","Oo, ngunit sa antigen test lamang",0,0,0,0
 206,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
-207,"Oo, ngunit sa antigen test lamang","Oo, ngunit sa antigen test lamang",0,0,0,0
-208,"Oo, ngunit sa antigen test lamang","Oo, ngunit sa antigen test lamang",0,0,0,0
 212,Hindi posibleng mag positibo sa mga viral test na sinabi,"Oo, pareho sa PCR at antigen test",1,0,1,0
 213,"Oo, ngunit sa antigen test lamang","Oo, ngunit sa antigen test lamang",0,0,0,0
 214,"Oo, ngunit sa PCR test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
-215,"Oo, ngunit sa antigen test lamang",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 216,Hindi posibleng mag positibo sa mga viral test na sinabi,Hindi posibleng mag positibo sa mga viral test na sinabi,1,1,0,0
 217,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 218,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 219,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 220,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 221,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
-222,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 223,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1
 224,"Oo, pareho sa PCR at antigen test",Hindi posibleng mag positibo sa mga viral test na sinabi,0,1,1,1

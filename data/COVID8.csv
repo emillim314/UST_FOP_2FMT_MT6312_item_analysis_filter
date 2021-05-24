@@ -4,13 +4,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 7,Humingi ng medikal na atensyon at makipag-ugnayan sa doctor.,Humingi ng medikal na atensyon at makipag-ugnayan sa doctor.,0,0,0,0
 8,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,1,1,0,0
 9,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
-10,Humingi ng medikal na atensyon at makipag-ugnayan sa doctor.,Humingi ng medikal na atensyon at makipag-ugnayan sa doctor.,0,0,0,0
 11,Lahat ng nabanggit,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,0,1,1,1
-13,Lahat ng nabanggit,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,0,1,1,1
 14,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
-15,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
-16,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
-17,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
 18,Lahat ng nabanggit,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,0,1,1,1
 19,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 21,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
@@ -29,10 +24,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 35,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 38,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,1,1,0,0
 39,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
-41,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
 44,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,1,1,0,0
 49,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
-50,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 51,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 52,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 53,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
@@ -56,28 +49,21 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 86,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
 87,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
 88,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
-89,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
 90,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
-91,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
 92,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
-93,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 94,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 95,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
 96,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
 97,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,1,1,0,0
 98,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
-101,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
-102,Humingi ng medikal na atensyon at makipag-ugnayan sa doctor.,Lahat ng nabanggit,0,0,0,0
 103,Humingi ng medikal na atensyon at makipag-ugnayan sa doctor.,Lahat ng nabanggit,0,0,0,0
 104,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,1,1,0,0
 106,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 107,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
 108,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 110,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
-112,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
 114,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 115,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
-116,Humingi ng medikal na atensyon at makipag-ugnayan sa doctor.,Humingi ng medikal na atensyon at makipag-ugnayan sa doctor.,0,0,0,0
 117,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 118,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 119,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
@@ -94,7 +80,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 130,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,1,1,0,0
 131,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
 133,Sabihan ang mga nakasalamuha mong tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit,0,0,0,0
-134,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 135,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 136,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 137,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
@@ -107,7 +92,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 148,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 149,Sabihan ang mga nakasalamuha mong tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit,0,0,0,0
 150,Sabihan ang mga nakasalamuha mong tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit,0,0,0,0
-151,Sabihan ang mga nakasalamuha mong tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit,0,0,0,0
 152,Sabihan ang mga nakasalamuha mong tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit,0,0,0,0
 153,Sabihan ang mga nakasalamuha mong tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit,0,0,0,0
 154,Sabihan ang mga nakasalamuha mong tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit,0,0,0,0
@@ -117,13 +101,9 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 158,Sabihan ang mga nakasalamuha mong tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit,0,0,0,0
 159,Sabihan ang mga nakasalamuha mong tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit,0,0,0,0
 160,Sabihan ang mga nakasalamuha mong tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit,0,0,0,0
-161,Sabihan ang mga nakasalamuha mong tao na sila ay nalantad sa COVID-19,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,0,1,1,1
 162,Sabihan ang mga nakasalamuha mong tao na sila ay nalantad sa COVID-19,Sabihan ang mga nakasalamuha mong tao na sila ay nalantad sa COVID-19,0,0,0,0
-163,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
-164,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 166,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 169,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
-171,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 178,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 180,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 181,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
@@ -147,12 +127,9 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 204,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,1,1,0,0
 205,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 206,Humingi ng medikal na atensyon at makipag-ugnayan sa doctor.,Humingi ng medikal na atensyon at makipag-ugnayan sa doctor.,0,0,0,0
-207,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,1,1,0,0
-208,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,1,1,0,0
 212,Lahat ng nabanggit,Lahat ng nabanggit,0,0,0,0
 213,Lahat ng nabanggit,Humingi ng medikal na atensyon at makipag-ugnayan sa doctor.,0,0,0,0
 214,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
-215,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
 216,Mag self-quarantine o manatili sa bahay ng 14 na araw matapos ang huling kontak sa nag positibo at subaybayan ang sarili para sa mga sintomas,Lahat ng nabanggit,1,0,1,0
 217,Humingi ng medikal na atensyon at makipag-ugnayan sa doctor.,Lahat ng nabanggit,0,0,0,0
 218,Sabihan ang mga nakasalamuha mong tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit,0,0,0,0

@@ -6,9 +6,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 9,B at C lamang,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,1,0,1,0
 11,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,B at C lamang,0,1,1,1
 14,B at C lamang,B at C lamang,1,1,0,0
-15,B at C lamang,B at C lamang,1,1,0,0
-16,B at C lamang,B at C lamang,1,1,0,0
-17,B at C lamang,B at C lamang,1,1,0,0
 18,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,B at C lamang,0,1,1,1
 19,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,B at C lamang,0,1,1,1
 21,B at C lamang,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,1,0,1,0
@@ -27,10 +24,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 35,B at C lamang,B at C lamang,1,1,0,0
 38,B at C lamang,B at C lamang,1,1,0,0
 39,B at C lamang,B at C lamang,1,1,0,0
-41,Siguruhin na may layo na hindi bababa sa anim (6) na talampakan (feet) mula sa ibang tao at umiwas sa lugar na matao.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 44,B at C lamang,B at C lamang,1,1,0,0
 49,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
-50,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 51,B at C lamang,B at C lamang,1,1,0,0
 52,B at C lamang,B at C lamang,1,1,0,0
 53,B at C lamang,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,1,0,1,0
@@ -54,18 +49,13 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 86,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 87,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 88,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
-89,B at C lamang,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,1,0,1,0
 90,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
-91,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 92,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
-93,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 94,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 95,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 96,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 97,B at C lamang,B at C lamang,1,1,0,0
 98,B at C lamang,B at C lamang,1,1,0,0
-101,B at C lamang,B at C lamang,1,1,0,0
-102,B at C lamang,B at C lamang,1,1,0,0
 103,B at C lamang,B at C lamang,1,1,0,0
 104,B at C lamang,B at C lamang,1,1,0,0
 106,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,B at C lamang,0,1,1,1
@@ -74,7 +64,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 110,B at C lamang,B at C lamang,1,1,0,0
 114,B at C lamang,B at C lamang,1,1,0,0
 115,B at C lamang,B at C lamang,1,1,0,0
-116,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Siguruhin na may layo na hindi bababa sa anim (6) na talampakan (feet) mula sa ibang tao at umiwas sa lugar na matao.,0,0,0,0
 117,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,B at C lamang,0,1,1,1
 118,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 119,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
@@ -92,7 +81,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 131,B at C lamang,B at C lamang,1,1,0,0
 132,B at C lamang,B at C lamang,1,1,0,0
 133,B at C lamang,B at C lamang,1,1,0,0
-134,B at C lamang,B at C lamang,1,1,0,0
 135,B at C lamang,B at C lamang,1,1,0,0
 136,B at C lamang,B at C lamang,1,1,0,0
 137,B at C lamang,B at C lamang,1,1,0,0
@@ -105,7 +93,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 148,B at C lamang,B at C lamang,1,1,0,0
 149,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 150,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
-151,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 152,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 153,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 154,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
@@ -116,11 +103,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 159,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 160,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 162,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
-164,B at C lamang,B at C lamang,1,1,0,0
-165,B at C lamang,B at C lamang,1,1,0,0
 166,B at C lamang,B at C lamang,1,1,0,0
 169,B at C lamang,B at C lamang,1,1,0,0
-171,B at C lamang,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,1,0,1,0
 178,B at C lamang,B at C lamang,1,1,0,0
 180,B at C lamang,B at C lamang,1,1,0,0
 181,B at C lamang,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,1,0,1,0
@@ -143,11 +127,9 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 204,Siguruhin na may layo na hindi bababa sa anim (6) na talampakan (feet) mula sa ibang tao at umiwas sa lugar na matao.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 205,B at C lamang,Siguruhin na may layo na hindi bababa sa anim (6) na talampakan (feet) mula sa ibang tao at umiwas sa lugar na matao.,1,0,1,0
 206,Siguruhin na may layo na hindi bababa sa anim (6) na talampakan (feet) mula sa ibang tao at umiwas sa lugar na matao.,Siguruhin na may layo na hindi bababa sa anim (6) na talampakan (feet) mula sa ibang tao at umiwas sa lugar na matao.,0,0,0,0
-208,Siguruhin na may layo na hindi bababa sa anim (6) na talampakan (feet) mula sa ibang tao at umiwas sa lugar na matao.,Siguruhin na may layo na hindi bababa sa anim (6) na talampakan (feet) mula sa ibang tao at umiwas sa lugar na matao.,0,0,0,0
 212,B at C lamang,B at C lamang,1,1,0,0
 213,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 214,B at C lamang,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,1,0,1,0
-215,Magsuot ng mga damit na matatakluban ang balat.,B at C lamang,0,1,1,1
 216,Siguruhin na may layo na hindi bababa sa anim (6) na talampakan (feet) mula sa ibang tao at umiwas sa lugar na matao.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 217,Siguruhin na may layo na hindi bababa sa anim (6) na talampakan (feet) mula sa ibang tao at umiwas sa lugar na matao.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0
 218,Magsuot ng mga damit na matatakluban ang balat.,Magsuot ng mask o pantakip sa bibig at ilong lalo na kapag lalabas at ugaliing maghugas ng kamay.,0,0,0,0

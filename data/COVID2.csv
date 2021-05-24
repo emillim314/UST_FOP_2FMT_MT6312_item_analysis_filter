@@ -5,11 +5,7 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 8,A at B lamang,A at B lamang,1,1,0,0
 9,A at B lamang,A at B lamang,1,1,0,0
 11,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
-13,A at B lamang,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",1,0,1,0
 14,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
-15,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",A at B lamang,0,1,1,1
-16,A at B lamang,A at B lamang,1,1,0,0
-17,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",A at B lamang,0,1,1,1
 18,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 19,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",A at B lamang,0,1,1,1
 21,A at B lamang,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",1,0,1,0
@@ -25,14 +21,11 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 31,A at B lamang,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",1,0,1,0
 32,A at B lamang,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",1,0,1,0
 33,A at B lamang,A at B lamang,1,1,0,0
-34,A at B lamang,A at B lamang,1,1,0,0
 35,A at B lamang,A at B lamang,1,1,0,0
 38,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",A at B lamang,0,1,1,1
 39,A at B lamang,A at B lamang,1,1,0,0
-41,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 44,A at B lamang,A at B lamang,1,1,0,0
 49,A at B lamang,A at B lamang,1,1,0,0
-50,A at B lamang,A at B lamang,1,1,0,0
 51,A at B lamang,A at B lamang,1,1,0,0
 52,A at B lamang,A at B lamang,1,1,0,0
 53,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
@@ -50,35 +43,27 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 74,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 75,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 76,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
-79,A at B lamang,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",1,0,1,0
 81,Malapitang pakikisalamuha sa mga may COVID-19 (direct contact),A at B lamang,0,1,1,1
 82,Malapitang pakikisalamuha sa mga may COVID-19 (direct contact),A at B lamang,0,1,1,1
 85,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 86,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 87,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 88,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
-89,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 90,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
-91,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 92,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
-93,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 94,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 95,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 96,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 97,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 98,A at B lamang,A at B lamang,1,1,0,0
-101,A at B lamang,A at B lamang,1,1,0,0
-102,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",A at B lamang,0,1,1,1
 103,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 104,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 106,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",A at B lamang,0,1,1,1
 107,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",A at B lamang,0,1,1,1
 108,A at B lamang,A at B lamang,1,1,0,0
 110,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",A at B lamang,0,1,1,1
-112,A at B lamang,A at B lamang,1,1,0,0
 114,A at B lamang,A at B lamang,1,1,0,0
 115,A at B lamang,A at B lamang,1,1,0,0
-116,Malapitang pakikisalamuha sa mga may COVID-19 (direct contact),Malapitang pakikisalamuha sa mga may COVID-19 (direct contact),0,0,0,0
 117,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 118,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 119,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
@@ -96,7 +81,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 131,A at B lamang,A at B lamang,1,1,0,0
 132,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 133,A at B lamang,A at B lamang,1,1,0,0
-134,A at B lamang,A at B lamang,1,1,0,0
 135,A at B lamang,A at B lamang,1,1,0,0
 136,A at B lamang,A at B lamang,1,1,0,0
 137,A at B lamang,A at B lamang,1,1,0,0
@@ -109,7 +93,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 148,A at B lamang,A at B lamang,1,1,0,0
 149,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 150,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
-151,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 152,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 153,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",Pagpasa mula sa mga insekto tulad ng mga lamok at langaw (vector-borne),0,0,0,0
 154,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
@@ -120,13 +103,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 159,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 160,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 162,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
-163,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
-164,A at B lamang,A at B lamang,1,1,0,0
-165,A at B lamang,A at B lamang,1,1,0,0
 166,A at B lamang,Malapitang pakikisalamuha sa mga may COVID-19 (direct contact),1,0,1,0
 169,A at B lamang,A at B lamang,1,1,0,0
-171,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
-177,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 178,A at B lamang,A at B lamang,1,1,0,0
 180,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 181,A at B lamang,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",1,0,1,0
@@ -150,12 +128,9 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 204,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 205,A at B lamang,Malapitang pakikisalamuha sa mga may COVID-19 (direct contact),1,0,1,0
 206,Malapitang pakikisalamuha sa mga may COVID-19 (direct contact),Malapitang pakikisalamuha sa mga may COVID-19 (direct contact),0,0,0,0
-207,Malapitang pakikisalamuha sa mga may COVID-19 (direct contact),Malapitang pakikisalamuha sa mga may COVID-19 (direct contact),0,0,0,0
-208,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 212,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",A at B lamang,0,1,1,1
 213,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 214,Pagpasa mula sa mga insekto tulad ng mga lamok at langaw (vector-borne),"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
-215,Malapitang pakikisalamuha sa mga may COVID-19 (direct contact),"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 216,Pagpasa mula sa mga insekto tulad ng mga lamok at langaw (vector-borne),"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0
 217,A at B lamang,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",1,0,1,0
 218,"Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)","Pagsagap ng mga maliit na talsik ng laway mula sa pagsasalita, pagbahing, o pag-ubo (droplets)",0,0,0,0

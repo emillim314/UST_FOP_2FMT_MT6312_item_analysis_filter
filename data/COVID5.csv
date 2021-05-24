@@ -6,9 +6,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 9,Malalang Pneumonia (Severe Pneumonia),Malalang Pneumonia (Severe Pneumonia),0,0,0,0
 11,"A, B, at C","A, B, at C",1,1,0,0
 14,"A, B, at C","A, B, at C",1,1,0,0
-15,"A, B, at C","A, B, at C",1,1,0,0
-16,"A, B, at C","A, B, at C",1,1,0,0
-17,Malalang Pneumonia (Severe Pneumonia),"A, B, at C",0,1,1,1
 18,"A, B, at C","A, B, at C",1,1,0,0
 19,"A, B, at C","A, B, at C",1,1,0,0
 21,Malalang Pneumonia (Severe Pneumonia),"A, B, at C",0,1,1,1
@@ -24,14 +21,11 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 31,Malalang Pneumonia (Severe Pneumonia),"A, B, at C",0,1,1,1
 32,Malalang Pneumonia (Severe Pneumonia),"A, B, at C",0,1,1,1
 33,"A, B, at C","A, B, at C",1,1,0,0
-34,"A, B, at C","A, B, at C",1,1,0,0
 35,Malalang Pneumonia (Severe Pneumonia),Malalang Pneumonia (Severe Pneumonia),0,0,0,0
 38,Malalang Pneumonia (Severe Pneumonia),"A, B, at C",0,1,1,1
 39,"A, B, at C",Malalang Pneumonia (Severe Pneumonia),1,0,1,0
-41,"A, B, at C","A, B, at C",1,1,0,0
 44,"A, B, at C","A, B, at C",1,1,0,0
 49,"A, B, at C","A, B, at C",1,1,0,0
-50,"A, B, at C","A, B, at C",1,1,0,0
 51,"A, B, at C","A, B, at C",1,1,0,0
 52,Organ Failure,"A, B, at C",0,1,1,1
 53,Malalang Pneumonia (Severe Pneumonia),"A, B, at C",0,1,1,1
@@ -53,28 +47,21 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 86,"A, B, at C","A, B, at C",1,1,0,0
 87,"A, B, at C","A, B, at C",1,1,0,0
 88,"A, B, at C","A, B, at C",1,1,0,0
-89,"A, B, at C","A, B, at C",1,1,0,0
 90,"A, B, at C","A, B, at C",1,1,0,0
-91,"A, B, at C","A, B, at C",1,1,0,0
 92,"A, B, at C","A, B, at C",1,1,0,0
-93,"A, B, at C","A, B, at C",1,1,0,0
 94,"A, B, at C","A, B, at C",1,1,0,0
 95,Organ Failure,"A, B, at C",0,1,1,1
 96,"A, B, at C","A, B, at C",1,1,0,0
 97,"A, B, at C","A, B, at C",1,1,0,0
 98,"A, B, at C","A, B, at C",1,1,0,0
-101,"A, B, at C","A, B, at C",1,1,0,0
-102,"A, B, at C",Posibleng pagkamatay,1,0,1,0
 103,Posibleng pagkamatay,"A, B, at C",0,1,1,1
 104,"A, B, at C","A, B, at C",1,1,0,0
 106,"A, B, at C","A, B, at C",1,1,0,0
 107,Posibleng pagkamatay,Posibleng pagkamatay,0,0,0,0
 108,"A, B, at C","A, B, at C",1,1,0,0
 110,"A, B, at C","A, B, at C",1,1,0,0
-112,"A, B, at C","A, B, at C",1,1,0,0
 114,"A, B, at C","A, B, at C",1,1,0,0
 115,"A, B, at C","A, B, at C",1,1,0,0
-116,Posibleng pagkamatay,Posibleng pagkamatay,0,0,0,0
 117,"A, B, at C","A, B, at C",1,1,0,0
 118,Malalang Pneumonia (Severe Pneumonia),"A, B, at C",0,1,1,1
 119,"A, B, at C","A, B, at C",1,1,0,0
@@ -92,7 +79,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 131,Organ Failure,"A, B, at C",0,1,1,1
 132,"A, B, at C","A, B, at C",1,1,0,0
 133,"A, B, at C","A, B, at C",1,1,0,0
-134,"A, B, at C","A, B, at C",1,1,0,0
 135,"A, B, at C","A, B, at C",1,1,0,0
 136,"A, B, at C","A, B, at C",1,1,0,0
 137,"A, B, at C","A, B, at C",1,1,0,0
@@ -105,7 +91,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 148,"A, B, at C","A, B, at C",1,1,0,0
 149,Posibleng pagkamatay,"A, B, at C",0,1,1,1
 150,Posibleng pagkamatay,"A, B, at C",0,1,1,1
-151,Posibleng pagkamatay,"A, B, at C",0,1,1,1
 152,Posibleng pagkamatay,"A, B, at C",0,1,1,1
 153,Malalang Pneumonia (Severe Pneumonia),"A, B, at C",0,1,1,1
 154,Posibleng pagkamatay,"A, B, at C",0,1,1,1
@@ -115,14 +100,9 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 158,Posibleng pagkamatay,"A, B, at C",0,1,1,1
 159,Posibleng pagkamatay,"A, B, at C",0,1,1,1
 160,Posibleng pagkamatay,"A, B, at C",0,1,1,1
-161,Malalang Pneumonia (Severe Pneumonia),Malalang Pneumonia (Severe Pneumonia),0,0,0,0
 162,Malalang Pneumonia (Severe Pneumonia),Malalang Pneumonia (Severe Pneumonia),0,0,0,0
-163,"A, B, at C","A, B, at C",1,1,0,0
-164,"A, B, at C","A, B, at C",1,1,0,0
-165,Posibleng pagkamatay,"A, B, at C",0,1,1,1
 166,Posibleng pagkamatay,"A, B, at C",0,1,1,1
 169,"A, B, at C","A, B, at C",1,1,0,0
-171,"A, B, at C","A, B, at C",1,1,0,0
 178,"A, B, at C","A, B, at C",1,1,0,0
 180,"A, B, at C","A, B, at C",1,1,0,0
 181,Malalang Pneumonia (Severe Pneumonia),"A, B, at C",0,1,1,1
@@ -146,11 +126,9 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 204,Malalang Pneumonia (Severe Pneumonia),Malalang Pneumonia (Severe Pneumonia),0,0,0,0
 205,Posibleng pagkamatay,Organ Failure,0,0,0,0
 206,"A, B, at C","A, B, at C",1,1,0,0
-207,"A, B, at C","A, B, at C",1,1,0,0
 212,"A, B, at C","A, B, at C",1,1,0,0
 213,Posibleng pagkamatay,Posibleng pagkamatay,0,0,0,0
 214,Posibleng pagkamatay,"A, B, at C",0,1,1,1
-215,"A, B, at C","A, B, at C",1,1,0,0
 216,Posibleng pagkamatay,"A, B, at C",0,1,1,1
 217,Posibleng pagkamatay,"A, B, at C",0,1,1,1
 218,Malalang Pneumonia (Severe Pneumonia),"A, B, at C",0,1,1,1

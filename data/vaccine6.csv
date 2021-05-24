@@ -5,10 +5,7 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 8,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 9,"Oo, symptomatic na COVID-19","Oo, symptomatic na COVID-19",0,0,0,0
 11,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
-13,"Oo, symptomatic na COVID-19","Oo, symptomatic na COVID-19",0,0,0,0
 14,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
-15,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
-16,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 18,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 19,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 21,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
@@ -27,10 +24,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 35,"Oo, ngunit maliit lamang ang posibilidad","Oo, ngunit maliit lamang ang posibilidad",0,0,0,0
 38,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 39,"Oo, ngunit maliit lamang ang posibilidad",Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
-41,Oo ngunit asymptomatic lamang,Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 44,"Oo, ngunit maliit lamang ang posibilidad","Oo, ngunit maliit lamang ang posibilidad",0,0,0,0
 49,"Oo, ngunit maliit lamang ang posibilidad","Oo, ngunit maliit lamang ang posibilidad",0,0,0,0
-50,"Oo, ngunit maliit lamang ang posibilidad",Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 51,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 52,Hindi nakukuha ang COVID-19 dahil sa bakuna,"Oo, ngunit maliit lamang ang posibilidad",1,0,1,0
 53,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
@@ -48,7 +43,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 74,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 75,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 76,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
-77,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 81,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 82,Hindi nakukuha ang COVID-19 dahil sa bakuna,"Oo, ngunit maliit lamang ang posibilidad",1,0,1,0
 85,"Oo, ngunit maliit lamang ang posibilidad",Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
@@ -56,26 +50,20 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 87,"Oo, ngunit maliit lamang ang posibilidad",Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 88,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 90,"Oo, ngunit maliit lamang ang posibilidad",Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
-91,Oo ngunit asymptomatic lamang,Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 92,"Oo, ngunit maliit lamang ang posibilidad",Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
-93,Oo ngunit asymptomatic lamang,Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 94,Oo ngunit asymptomatic lamang,Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 95,Oo ngunit asymptomatic lamang,Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 96,"Oo, ngunit maliit lamang ang posibilidad",Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 97,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 98,"Oo, ngunit maliit lamang ang posibilidad",Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
-101,"Oo, ngunit maliit lamang ang posibilidad","Oo, ngunit maliit lamang ang posibilidad",0,0,0,0
-102,"Oo, ngunit maliit lamang ang posibilidad",Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 103,Hindi nakukuha ang COVID-19 dahil sa bakuna,"Oo, ngunit maliit lamang ang posibilidad",1,0,1,0
 104,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 106,"Oo, symptomatic na COVID-19",Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 107,Hindi nakukuha ang COVID-19 dahil sa bakuna,Oo ngunit asymptomatic lamang,1,0,1,0
 108,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 110,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
-112,Oo ngunit asymptomatic lamang,Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 114,"Oo, symptomatic na COVID-19","Oo, symptomatic na COVID-19",0,0,0,0
 115,Hindi nakukuha ang COVID-19 dahil sa bakuna,"Oo, ngunit maliit lamang ang posibilidad",1,0,1,0
-116,"Oo, ngunit maliit lamang ang posibilidad","Oo, ngunit maliit lamang ang posibilidad",0,0,0,0
 117,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 118,Oo ngunit asymptomatic lamang,Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 119,"Oo, ngunit maliit lamang ang posibilidad",Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
@@ -93,7 +81,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 131,Hindi nakukuha ang COVID-19 dahil sa bakuna,"Oo, ngunit maliit lamang ang posibilidad",1,0,1,0
 132,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 133,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
-134,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 135,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 136,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 137,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
@@ -105,7 +92,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 148,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 149,Oo ngunit asymptomatic lamang,Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 150,Oo ngunit asymptomatic lamang,Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
-151,Oo ngunit asymptomatic lamang,Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 152,"Oo, ngunit maliit lamang ang posibilidad",Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 153,Oo ngunit asymptomatic lamang,Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 154,Oo ngunit asymptomatic lamang,Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
@@ -116,11 +102,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 159,"Oo, ngunit maliit lamang ang posibilidad",Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 160,Oo ngunit asymptomatic lamang,Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 162,"Oo, ngunit maliit lamang ang posibilidad","Oo, ngunit maliit lamang ang posibilidad",0,0,0,0
-163,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 166,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 169,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
-171,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
-177,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 178,"Oo, ngunit maliit lamang ang posibilidad","Oo, ngunit maliit lamang ang posibilidad",0,0,0,0
 180,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 181,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
@@ -144,8 +127,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 204,"Oo, ngunit maliit lamang ang posibilidad",Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 205,Oo ngunit asymptomatic lamang,Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
 206,"Oo, symptomatic na COVID-19","Oo, symptomatic na COVID-19",0,0,0,0
-207,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
-208,"Oo, ngunit maliit lamang ang posibilidad","Oo, ngunit maliit lamang ang posibilidad",0,0,0,0
 212,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 213,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 214,"Oo, symptomatic na COVID-19",Hindi nakukuha ang COVID-19 dahil sa bakuna,0,1,1,1
@@ -155,6 +136,5 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 219,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 220,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 221,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
-222,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 223,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0
 224,Hindi nakukuha ang COVID-19 dahil sa bakuna,Hindi nakukuha ang COVID-19 dahil sa bakuna,1,1,0,0

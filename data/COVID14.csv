@@ -3,11 +3,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 6,20 segundo,20 segundo,1,1,0,0
 7,10 segundo,5 segundo,0,0,0,0
 8,5 segundo,20 segundo,0,1,1,1
-10,5 segundo,5 segundo,0,0,0,0
 11,10 segundo,20 segundo,0,1,1,1
-13,20 segundo,5 segundo,1,0,1,0
 14,20 segundo,20 segundo,1,1,0,0
-16,20 segundo,20 segundo,1,1,0,0
 21,20 segundo,20 segundo,1,1,0,0
 22,20 segundo,20 segundo,1,1,0,0
 23,20 segundo,20 segundo,1,1,0,0
@@ -24,10 +21,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 35,20 segundo,20 segundo,1,1,0,0
 38,5 segundo,20 segundo,0,1,1,1
 39,20 segundo,20 segundo,1,1,0,0
-41,20 segundo,20 segundo,1,1,0,0
 44,20 segundo,20 segundo,1,1,0,0
 49,20 segundo,20 segundo,1,1,0,0
-50,20 segundo,20 segundo,1,1,0,0
 51,20 segundo,20 segundo,1,1,0,0
 52,20 segundo,20 segundo,1,1,0,0
 53,20 segundo,20 segundo,1,1,0,0
@@ -45,17 +40,14 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 74,20 segundo,20 segundo,1,1,0,0
 75,20 segundo,20 segundo,1,1,0,0
 76,20 segundo,20 segundo,1,1,0,0
-79,5 segundo,10 segundo,0,0,0,0
 81,20 segundo,20 segundo,1,1,0,0
 82,20 segundo,20 segundo,1,1,0,0
 85,20 segundo,20 segundo,1,1,0,0
 86,20 segundo,20 segundo,1,1,0,0
 87,20 segundo,20 segundo,1,1,0,0
 88,5 segundo,20 segundo,0,1,1,1
-89,20 segundo,20 segundo,1,1,0,0
 90,20 segundo,20 segundo,1,1,0,0
 92,5 segundo,20 segundo,0,1,1,1
-93,10 segundo,20 segundo,0,1,1,1
 94,20 segundo,20 segundo,1,1,0,0
 95,5 segundo,20 segundo,0,1,1,1
 96,20 segundo,20 segundo,1,1,0,0
@@ -67,7 +59,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 107,20 segundo,5 segundo,1,0,1,0
 108,5 segundo,5 segundo,0,0,0,0
 110,5 segundo,5 segundo,0,0,0,0
-112,20 segundo,5 segundo,1,0,1,0
 114,10 segundo,10 segundo,0,0,0,0
 115,5 segundo,10 segundo,0,0,0,0
 117,20 segundo,20 segundo,1,1,0,0
@@ -86,7 +77,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 130,20 segundo,20 segundo,1,1,0,0
 131,20 segundo,20 segundo,1,1,0,0
 132,20 segundo,20 segundo,1,1,0,0
-134,20 segundo,20 segundo,1,1,0,0
 135,20 segundo,20 segundo,1,1,0,0
 136,20 segundo,20 segundo,1,1,0,0
 137,20 segundo,20 segundo,1,1,0,0
@@ -99,7 +89,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 148,20 segundo,20 segundo,1,1,0,0
 149,10 segundo,20 segundo,0,1,1,1
 150,10 segundo,20 segundo,0,1,1,1
-151,10 segundo,20 segundo,0,1,1,1
 152,10 segundo,20 segundo,0,1,1,1
 153,10 segundo,20 segundo,0,1,1,1
 154,10 segundo,20 segundo,0,1,1,1
@@ -134,11 +123,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 204,10 segundo,10 segundo,0,0,0,0
 205,20 segundo,20 segundo,1,1,0,0
 206,20 segundo,20 segundo,1,1,0,0
-207,20 segundo,10 segundo,1,0,1,0
-208,10 segundo,10 segundo,0,0,0,0
 212,5 segundo,5 segundo,0,0,0,0
 214,10 segundo,20 segundo,0,1,1,1
-215,20 segundo,20 segundo,1,1,0,0
 216,5 segundo,20 segundo,0,1,1,1
 218,20 segundo,20 segundo,1,1,0,0
 219,20 segundo,20 segundo,1,1,0,0

@@ -4,12 +4,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 7,Php 1000 bawat dose,Php 1000 sa dalawang dose,0,0,0,0
 8,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 9,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-10,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 11,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-13,Php 650 bawat dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
 14,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-15,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-17,Php 1000 bawat dose,Php 1000 bawat dose,0,0,0,0
 18,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
 19,"Wala, libre ito sa prayoridad na grupo",Php 1000 bawat dose,1,0,1,0
 21,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
@@ -27,10 +23,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 35,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 38,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 39,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-41,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 44,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 49,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-50,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 51,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 52,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 53,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
@@ -48,7 +42,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 74,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 75,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 76,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-77,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 81,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 82,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 85,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
@@ -56,25 +49,20 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 87,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 88,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 90,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-91,"Wala, libre ito sa prayoridad na grupo",Php 1000 sa dalawang dose,1,0,1,0
 92,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-93,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 94,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 95,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 96,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 97,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 98,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-101,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 103,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
 104,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 106,"Wala, libre ito sa prayoridad na grupo",Php 650 bawat dose,1,0,1,0
 107,Php 1000 bawat dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
 108,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 110,"Wala, libre ito sa prayoridad na grupo",Php 650 bawat dose,1,0,1,0
-112,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 114,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 115,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-116,Php 1000 bawat dose,Php 1000 bawat dose,0,0,0,0
 117,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
 118,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
 119,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
@@ -92,7 +80,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 131,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 132,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 133,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-134,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 135,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 136,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 137,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
@@ -105,7 +92,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 148,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 149,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
 150,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
-151,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
 152,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
 153,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
 154,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
@@ -115,14 +101,9 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 158,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
 159,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
 160,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
-161,Php 1000 sa dalawang dose,Php 1000 bawat dose,0,0,0,0
 162,Php 1000 sa dalawang dose,Php 1000 sa dalawang dose,0,0,0,0
-163,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-165,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 166,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 169,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-171,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-177,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 178,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 180,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 181,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
@@ -145,18 +126,14 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 204,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 205,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 206,Php 1000 sa dalawang dose,Siguruhin na may layo na hindi bababa sa anim (6) na talampakan (feet) mula sa ibang tao at umiwas sa lugar na matao.,0,0,0,0
-207,Php 1000 bawat dose,Php 1000 bawat dose,0,0,0,0
-208,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 212,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 213,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 214,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
-215,Php 1000 sa dalawang dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
 216,Php 650 bawat dose,"Wala, libre ito sa prayoridad na grupo",0,1,1,1
 217,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 218,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 219,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 220,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 221,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
-222,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 223,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0
 224,"Wala, libre ito sa prayoridad na grupo","Wala, libre ito sa prayoridad na grupo",1,1,0,0

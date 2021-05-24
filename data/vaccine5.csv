@@ -5,10 +5,7 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 8,Pagkawala ng pang amoy,Pamamaga ng tinurukan,1,0,1,0
 9,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 11,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
-13,Pamamaga ng tinurukan,Pagkapagod,0,0,0,0
 14,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
-15,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
-16,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
 18,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
 19,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
 21,Pamamaga ng tinurukan,Lagnat,0,0,0,0
@@ -27,10 +24,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 35,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 38,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
 39,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
-41,Pamamaga ng tinurukan,Lagnat,0,0,0,0
 44,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 49,Lagnat,Lagnat,0,0,0,0
-50,Lagnat,Lagnat,0,0,0,0
 51,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 52,Pagkapagod,Pagkawala ng pang amoy,0,1,1,1
 53,Pamamaga ng tinurukan,Lagnat,0,0,0,0
@@ -48,7 +43,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 74,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 75,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 76,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
-77,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 81,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 82,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 85,Pamamaga ng tinurukan,Lagnat,0,0,0,0
@@ -56,22 +50,18 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 87,Lagnat,Lagnat,0,0,0,0
 88,Pagkawala ng pang amoy,Lagnat,1,0,1,0
 90,Lagnat,Lagnat,0,0,0,0
-91,Pagkawala ng pang amoy,Lagnat,1,0,1,0
 92,Lagnat,Lagnat,0,0,0,0
-93,Pagkawala ng pang amoy,Lagnat,1,0,1,0
 94,Pamamaga ng tinurukan,Lagnat,0,0,0,0
 95,Pamamaga ng tinurukan,Lagnat,0,0,0,0
 96,Lagnat,Lagnat,0,0,0,0
 97,Pagkapagod,Pagkapagod,0,0,0,0
 98,Pamamaga ng tinurukan,Pagkawala ng pang amoy,0,1,1,1
-101,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 103,Pagkapagod,Pamamaga ng tinurukan,0,0,0,0
 104,Pagkapagod,Pagkapagod,0,0,0,0
 106,Lagnat,Pamamaga ng tinurukan,0,0,0,0
 107,Lagnat,Pagkawala ng pang amoy,0,1,1,1
 108,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
 110,Pagkapagod,Pagkawala ng pang amoy,0,1,1,1
-112,Pamamaga ng tinurukan,Pagkawala ng pang amoy,0,1,1,1
 114,Lagnat,Lagnat,0,0,0,0
 115,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
 117,Lagnat,Lagnat,0,0,0,0
@@ -91,7 +81,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 131,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 132,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
 133,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
-134,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 135,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 136,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 137,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
@@ -104,7 +93,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 148,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
 149,Pagkawala ng pang amoy,Lagnat,1,0,1,0
 150,Pagkawala ng pang amoy,Lagnat,1,0,1,0
-151,Lagnat,Lagnat,0,0,0,0
 152,Pagkapagod,Lagnat,0,0,0,0
 153,Lagnat,Lagnat,0,0,0,0
 154,Pagkawala ng pang amoy,Lagnat,1,0,1,0
@@ -115,11 +103,7 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 159,Pagkawala ng pang amoy,Lagnat,1,0,1,0
 160,Lagnat,Lagnat,0,0,0,0
 162,Lagnat,Lagnat,0,0,0,0
-163,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
-165,Pagkapagod,Pagkawala ng pang amoy,0,1,1,1
 169,Pagkawala ng pang amoy,Pagkawala ng pang amoy,1,1,0,0
-171,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
-177,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 178,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 180,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 181,Pamamaga ng tinurukan,Lagnat,0,0,0,0
@@ -143,18 +127,14 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 204,Pamamaga ng tinurukan,Pagkapagod,0,0,0,0
 205,Pamamaga ng tinurukan,Pagkawala ng pang amoy,0,1,1,1
 206,Lagnat,Pagkapagod,0,0,0,0
-207,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
-208,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 212,Pamamaga ng tinurukan,Pamamaga ng tinurukan,0,0,0,0
 213,Pagkapagod,Pagkapagod,0,0,0,0
 214,Lagnat,Lagnat,0,0,0,0
-215,Pagkawala ng pang amoy,Lagnat,1,0,1,0
 216,Lagnat,Lagnat,0,0,0,0
 217,Pamamaga ng tinurukan,Lagnat,0,0,0,0
 218,Pagkawala ng pang amoy,Lagnat,1,0,1,0
 219,Pamamaga ng tinurukan,Lagnat,0,0,0,0
 220,Pamamaga ng tinurukan,Lagnat,0,0,0,0
 221,Pamamaga ng tinurukan,Lagnat,0,0,0,0
-222,Pamamaga ng tinurukan,Lagnat,0,0,0,0
 223,Pamamaga ng tinurukan,Lagnat,0,0,0,0
 224,Pamamaga ng tinurukan,Lagnat,0,0,0,0

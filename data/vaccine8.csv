@@ -4,12 +4,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 7,Makatutulong sa pagtapos ng pandemya,Makatutulong sa pagtapos ng pandemya,0,0,0,0
 8,Makatutulong sa pagtapos ng pandemya,Dagdag proteksyon sa taong nabakunahan,0,0,0,0
 9,Makatutulong sa pagtapos ng pandemya,Makatutulong sa pagtapos ng pandemya,0,0,0,0
-10,Makatutulong sa pagtapos ng pandemya,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 11,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
-13,Dagdag proteksyon sa taong nabakunahan,Dagdag proteksyon sa taong nabakunahan,0,0,0,0
 14,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
-15,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
-16,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 18,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 19,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 21,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
@@ -30,7 +26,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 39,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 44,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 49,Makatutulong sa pagtapos ng pandemya,Makatutulong sa pagtapos ng pandemya,0,0,0,0
-50,Makatutulong sa pagtapos ng pandemya,Makatutulong sa pagtapos ng pandemya,0,0,0,0
 51,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 52,Dagdag proteksyon sa taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 53,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
@@ -48,7 +43,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 74,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 75,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 76,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
-77,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 81,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 82,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 85,Makatutulong sa pagtapos ng pandemya,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
@@ -56,26 +50,20 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 87,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 88,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 90,Makatutulong sa pagtapos ng pandemya,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
-91,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 92,Makatutulong sa pagtapos ng pandemya,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
-93,Makatutulong sa pagtapos ng pandemya,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 94,Makatutulong sa pagtapos ng pandemya,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 95,Dagdag proteksyon sa taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 96,Makatutulong sa pagtapos ng pandemya,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 97,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,0,0,0,0
 98,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
-101,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
-102,Makatutulong sa pagtapos ng pandemya,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 103,Dagdag proteksyon sa taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 104,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,0,0,0,0
 106,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 107,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 108,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 110,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
-112,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 114,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,0,0,0,0
 115,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
-116,Dagdag proteksyon sa taong nabakunahan,Dagdag proteksyon sa taong nabakunahan,0,0,0,0
 117,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 118,Dagdag proteksyon sa taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 119,Makatutulong sa pagtapos ng pandemya,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
@@ -93,7 +81,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 131,Dagdag proteksyon sa taong nabakunahan,Dagdag proteksyon sa taong nabakunahan,0,0,0,0
 132,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 133,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
-134,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Makatutulong sa pagtapos ng pandemya,1,0,1,0
 135,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 136,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 137,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Makatutulong sa pagtapos ng pandemya,1,0,1,0
@@ -106,7 +93,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 148,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 149,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 150,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
-151,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 152,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 153,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 154,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
@@ -117,13 +103,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 159,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 160,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 162,Dagdag proteksyon sa taong nabakunahan,Dagdag proteksyon sa taong nabakunahan,0,0,0,0
-163,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
-164,Dagdag proteksyon sa taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
-165,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 166,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 169,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
-171,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
-177,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 178,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 180,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 181,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
@@ -147,18 +128,14 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 204,Makatutulong sa pagtapos ng pandemya,Makatutulong sa pagtapos ng pandemya,0,0,0,0
 205,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 206,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,1,0,1,0
-207,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
-208,Makatutulong sa pagtapos ng pandemya,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 212,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,0,0,0,0
 213,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,0,0,0,0
 214,Dagdag proteksyon din para sa pamilya at mga kasama ng taong nabakunahan,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
-215,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 216,Makatutulong sa pagtapos ng pandemya,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 217,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 218,Makatutulong sa pagtapos ng pandemya,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,0,1,1,1
 219,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 220,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 221,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
-222,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 223,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0
 224,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,Mas lumalala at tumatagal ang pandemyang sitwasyon natin ngayon,1,1,0,0

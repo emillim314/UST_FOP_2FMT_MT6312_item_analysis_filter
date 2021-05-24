@@ -4,13 +4,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 7,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",0,0,0,0
 8,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,0,0,0,0
 9,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,0,0,0,0
-10,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.","Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",0,0,0,0
 11,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Lahat ng nabanggit.,0,1,1,1
-13,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,0,0,0,0
 14,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
-15,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
-16,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
-17,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 18,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Lahat ng nabanggit.,0,1,1,1
 19,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Lahat ng nabanggit.,0,1,1,1
 21,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Lahat ng nabanggit.,0,1,1,1
@@ -29,10 +24,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 35,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 38,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",Lahat ng nabanggit.,0,1,1,1
 39,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
-41,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 44,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 49,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
-50,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 51,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 52,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 53,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
@@ -50,35 +43,27 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 74,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 75,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 76,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
-79,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 81,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 82,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 85,Sabihan ang mga nakasalamuhang tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit.,0,1,1,1
 86,Sabihan ang mga nakasalamuhang tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit.,0,1,1,1
 87,Sabihan ang mga nakasalamuhang tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit.,0,1,1,1
 88,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Lahat ng nabanggit.,0,1,1,1
-89,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 90,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
-91,Sabihan ang mga nakasalamuhang tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit.,0,1,1,1
 92,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Lahat ng nabanggit.,0,1,1,1
-93,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 94,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 95,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 96,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 97,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 98,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,0,0,0,0
-101,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,0,0,0,0
-102,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Lahat ng nabanggit.,0,1,1,1
 103,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,0,0,0,0
 104,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 106,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Lahat ng nabanggit.,0,1,1,1
 107,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Lahat ng nabanggit.,0,1,1,1
 108,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 110,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
-112,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 114,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 115,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
-116,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.","Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",0,0,0,0
 117,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Lahat ng nabanggit.,0,1,1,1
 118,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Lahat ng nabanggit.,0,1,1,1
 119,Sabihan ang mga nakasalamuhang tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit.,0,1,1,1
@@ -96,7 +81,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 131,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 132,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 133,Lahat ng nabanggit.,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",1,0,1,0
-134,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 135,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 136,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 137,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
@@ -118,15 +102,9 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 158,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",Lahat ng nabanggit.,0,1,1,1
 159,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",Lahat ng nabanggit.,0,1,1,1
 160,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",Lahat ng nabanggit.,0,1,1,1
-161,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.","Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",0,0,0,0
 162,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.","Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",0,0,0,0
-163,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
-164,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
-165,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 166,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 169,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
-171,Sabihan ang mga nakasalamuhang tao na sila ay nalantad sa COVID-19,Lahat ng nabanggit.,0,1,1,1
-177,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 178,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 180,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 181,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Lahat ng nabanggit.,0,1,1,1
@@ -150,12 +128,9 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 204,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,0,0,0,0
 205,Lahat ng nabanggit.,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",1,0,1,0
 206,Sabihan ang mga nakasalamuhang tao na sila ay nalantad sa COVID-19,Sabihan ang mga nakasalamuhang tao na sila ay nalantad sa COVID-19,0,0,0,0
-207,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.","Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",0,0,0,0
-208,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,0,0,0,0
 212,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
 213,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",Lahat ng nabanggit.,0,1,1,1
 214,Lahat ng nabanggit.,Lahat ng nabanggit.,1,1,0,0
-215,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",Lahat ng nabanggit.,0,1,1,1
 216,Ihiwalay ang sarili sa ibang tao at subaybayan ang iyong mga sintomas.,Lahat ng nabanggit.,0,1,1,1
 217,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",Lahat ng nabanggit.,0,1,1,1
 218,"Humingi ng medikal na atensyon kung nakaramdam ng hirap sa paghinga, sakit sa dibdib, o iba pang kabaha-bahalang sintomas.",Lahat ng nabanggit.,0,1,1,1

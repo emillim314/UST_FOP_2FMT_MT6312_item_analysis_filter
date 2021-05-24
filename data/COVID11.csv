@@ -6,9 +6,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 9,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 11,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Oo, dahil mapipigilan nito ang sakit.",1,0,1,0
 14,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
-15,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
-16,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
-17,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 18,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Oo, dahil mapipigilan nito ang sakit.",1,0,1,0
 19,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 21,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
@@ -27,10 +24,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 35,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 38,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 39,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
-41,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 44,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 49,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Oo, dahil mapipigilan nito ang sakit.",1,0,1,0
-50,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 51,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 52,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 53,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
@@ -48,34 +43,27 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 74,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 75,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 76,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
-79,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Oo, dahil mapipigilan nito ang sakit.",1,0,1,0
 81,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 82,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 85,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 86,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 87,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 88,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
-89,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 90,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
-91,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 92,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 94,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 95,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 96,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 97,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 98,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
-101,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
-102,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 103,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 104,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 106,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 107,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Oo, dahil mapipigilan nito ang sakit.",1,0,1,0
 108,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 110,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
-112,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 114,"Oo, dahil mapipigilan nito ang sakit.","Oo, dahil mapipigilan nito ang sakit.",0,0,0,0
 115,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Oo, dahil mapipigilan nito ang sakit.",1,0,1,0
-116,"Oo, dahil mapipigilan nito ang sakit.","Oo, dahil mapipigilan nito ang sakit.",0,0,0,0
 117,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 118,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 119,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
@@ -93,7 +81,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 131,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 132,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 133,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
-134,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 135,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 136,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 137,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
@@ -105,7 +92,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 147,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Oo, dahil mapipigilan nito ang sakit.",1,0,1,0
 148,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 150,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
-151,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 152,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 153,"Oo, dahil mapipigilan nito ang sakit.","Oo, dahil mapipigilan nito ang sakit.",0,0,0,0
 154,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
@@ -115,14 +101,9 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 158,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 159,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 160,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
-161,"Oo, dahil mapipigilan nito ang sakit.","Oo, dahil mapipigilan nito ang sakit.",0,0,0,0
 162,"Oo, dahil mapipigilan nito ang sakit.","Oo, dahil mapipigilan nito ang sakit.",0,0,0,0
-163,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
-165,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 166,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 169,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
-171,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
-177,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 178,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 180,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 181,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
@@ -146,11 +127,9 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 204,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 205,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 206,"Oo, dahil mapipigilan nito ang sakit.","Oo, dahil mapipigilan nito ang sakit.",0,0,0,0
-208,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 212,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 213,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0
 214,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
-215,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 217,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 218,"Oo, dahil mapipigilan nito ang sakit.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",0,1,1,1
 219,"Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.","Hindi, dahil gamot lamang sa bacteria ang antibiotics at hindi ito gagana sa COVID-19.",1,1,0,0

@@ -4,12 +4,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 7,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",0,0,0,0
 8,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 9,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
-10,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 11,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
-13,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 14,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
-15,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
-17,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 18,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 19,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 21,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
@@ -28,10 +24,8 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 35,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",0,0,0,0
 38,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",0,1,1,1
 39,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
-41,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 44,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",0,1,1,1
 49,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",0,0,0,0
-50,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",0,0,0,0
 51,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 52,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 53,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
@@ -49,30 +43,24 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 74,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 75,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 76,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
-79,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",1,0,1,0
 81,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 82,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 85,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 86,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 87,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 88,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
-89,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 90,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",0,1,1,1
 92,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
-93,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 94,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",0,1,1,1
 95,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 96,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 97,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 98,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",0,0,0,0
-101,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",0,0,0,0
-102,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 103,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",1,0,1,0
 104,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 107,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",0,1,1,1
 108,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 110,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",1,0,1,0
-112,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",0,1,1,1
 114,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 115,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 117,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
@@ -91,7 +79,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 131,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 132,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 133,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
-134,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 135,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 136,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 137,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
@@ -104,7 +91,6 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 148,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 149,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 150,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",0,1,1,1
-151,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 152,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",0,1,1,1
 153,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",0,1,1,1
 154,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",0,1,1,1
@@ -114,14 +100,9 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 158,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",0,1,1,1
 159,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",0,1,1,1
 160,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",0,1,1,1
-161,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",0,0,0,0
 162,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",0,0,0,0
-163,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
-165,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 166,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 169,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
-171,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
-177,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 178,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 180,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 181,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
@@ -144,11 +125,9 @@ control number,PRE:answer,POST:answer,PRE:correct,POST:correct,score change,impr
 204,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",0,0,0,0
 205,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",0,0,0,0
 206,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
-207,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",1,0,1,0
 212,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",0,0,0,0
 213,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Oo, kaya nitong gamutin ang may sakit nang COVID-19.",0,0,0,0
 214,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
-215,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 216,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
 217,"Oo, kaya nitong gamutin ang may sakit nang COVID-19.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",0,1,1,1
 218,"Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.","Hindi, dahil ito’y hindi gamot para sa COVID-19 at maaari pang makapagdulot ng paso sa gagawa nito.",1,1,0,0
